@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hainerstefan
 - 👀 I’m interested in frontend dev
 - 🌱 I’m currently learning html/css/javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me hhainer@yahoo.com
